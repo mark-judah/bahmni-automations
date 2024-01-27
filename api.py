@@ -7,7 +7,11 @@ import requests
 import stringcase
 import xlrd
 from concept_set_maker import addConceptSet
+from concept_maker import deleteConcepts
+from drugs import createDrugs, deleteDrugs
+from non_saleable_item import createNonSaleableItems
 from odoo_price_updater import updatePrice
+from saleable_item import createSaleableItems
 
 app = FastAPI()
 
@@ -22,15 +26,7 @@ async def addConcept(request: Request):
     if file_name.endswith('.csv'):
         print("csv file")
 
-        with open(file_name, newline="") as csvFile:
-            data = list(csv.reader(csvFile))
-            data_array = []
-
-            for i in range(len(data)):
-                data_array.append(data[i][0])
-            print(data_array)
-            print(len(data_array))
-            insertData(data_array)
+        
 
     if file_name.endswith('.xls'):
         print('excel file')
@@ -130,9 +126,44 @@ async def updateConcept(request: Request):
     concept_uuid = data['concept_uuid']
     addConceptSet(concept_uuid)
 
+@app.get("/delete-concepts")
+async def deleteConcept():
+    deleteConcepts()
+    
+@app.post("/create-non-saleable-item-odoo")
+async def createNonSaleableItem(request: Request):
+    file_data = await request.json()
+    file_name = file_data['file_name']
+    categ_id = file_data['categ_id']
+
+    createNonSaleableItems(file_name,categ_id)
+
+@app.post("/create-saleable-item-odoo")
+async def createSaleableItem(request: Request):
+    file_data = await request.json()
+    file_name = file_data['file_name']
+    categ_id = file_data['categ_id']
+
+    createSaleableItems(file_name,categ_id)
 
 @app.post("/update-item-odoo")
 async def updateItem(request: Request):
     file_data = await request.json()
     file_name = file_data['file_name']
     updatePrice(file_name)
+
+@app.post("/create-drug")
+async def createDrug(request: Request):
+    file_data = await request.json()
+    file_name = file_data['file_name'] 
+    dosage_form_in_file = file_data['dosage_form_in_file']
+    dosage_form_uuid = file_data['dosage_form_uuid']
+
+
+    # categ_id = file_data['categ_id']
+
+    createDrugs(file_name,dosage_form_in_file,dosage_form_uuid)
+
+@app.get("/delete-drugs")
+async def deleteDrug():
+    deleteDrugs()
