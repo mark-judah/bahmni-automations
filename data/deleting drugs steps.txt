@@ -1,0 +1,32 @@
+copy all drugs from openmrs manage drug concept,paste into file
+
+delete all from sale_order_line
+delete all from account_invoice_line
+delete all from procurement_order
+delete all from stock_move
+delete all from stock_inventory_line
+delete all from stock_quant 
+delete all from odoodb product template where name in file-deleted 662/700
+
+delete all from drug_order
+delete from concept_name ,concept_id where concept_class is 3 
+delete from concept_answer,answer_concept ,concept_id where concept_class is 3 
+
+delete from concept_numeric ,concept_id where concept_class is 3 
+
+delete from concept_attribute ,concept_id where concept_class is 3
+
+delete all concepts where type drug
+delete all drugs from openmrsdb
+
+delete all from existing drugs and new drugs csv
+delete all from event_record where tags=drug odoo
+delete all from event_record where category=drug openmrsdb
+check for errors
+create test drug in openmrs, check if it syncs in odoo
+
+delete existing dosage forms from openmrs and odoo
+add new dosage forms in 
+insert drugs from keml list
+insert adempiere drug list
+insert prices

@@ -1,0 +1,942 @@
+Abacavir (ABC)	Tablet,	300mg
+Abacavir + lamivudine (ABC/TC)	Tablet (dispersible scored),	120mg (as sulphate) + 60mg
+Abacavir + lamivudine (ABC/TC)	Tablet,	600mg (as sulphate) + 300mg
+Abacavir + Lamivudine + Lopinavir + ritonavir (ABC/TC/LPV/r)	Granules for oral suspension,	30mg (as sulphate) + 15mg + 40mg + 10mg
+Abatacept	PFI (IV),	250mg
+Abiraterone	Tablet,	250mg
+Acetazolamide	Tablet,	250mg
+Acetylcysteine	Injection,	200mg/mL (10mL amp)
+Acetylsalicylic acid (Aspirin)	Tablet (scored),	300mg
+Acetylsalicylic acid (Aspirin)	Tablet,	300mg
+Acetylsalicylic acid (Aspirin)	Tablet,	75mg
+Activated Charcoal	PFOL,	50g
+Acyclovir	Eye ointment,	3.00%
+Acyclovir	PFI,	250mg vial (as sodium salt)
+Acyclovir	Tablet (scored),	400mg
+Adalimumab	Injection,	40mg/0.4mL
+Adenosine	Injection,	6mg/2mL
+Adult nutritionally complete isocaloric formula	Powder,	400g
+Adult nutritionally complete peptide based formula	Powder,	20 to 30g sachet
+Adult trace elements Solution for IV infusion,	Solution for IV infusion	10mL
+Albendazole	Suspension,	100mg/5mL
+Albendazole	Tablet (chewable),	400mg
+Alcohol-based hand rub	Solution,	Isopropyl alcohol 75% (500mL dispenser)
+Alendronic acid	Tablet,	10mg
+Alendronic acid	Tablet,	70mg
+All-trans retinoid acid (ATRA)	Capsule,	10mg
+Allopurinol	Tablet,	100mg
+Allopurinol	Tablet,	300mg
+Amidotrizoate	Solution (oral and rectal use),	370-420mg iodine/mL (as sodium or meglumine salt) (100mL)
+Amikacin	Injection,	250mg (as sulphate)/mL in 2ml vial
+Amikacin	Injection,	50mg (as sulphate)/mL in 2ml vial 
+Amikacin (Am)	PFI,	1g (as sulphate) vial
+Amiloride	Tablet,	5mg (as HCl)
+Amino acids	Solution for IV infusion,	10% with electrolytes (500ml bottle)
+Amino acids	Solution for IV infusion,	21g amino acid + 12g glutamine per 100mL bottle
+Amino acids	Solution for IV infusion,	5-6% with glucose (100ml bottle) 
+Amino acids	Solution for IV infusion,	7% (500ml bottle)
+Amino acids	Solution for IV infusion,	8% (500ml bottle)
+Amino acids and Vitamin granules	Powder,	5 to 10g sachet
+Amiodarone	Injection,	50mg (as HCl)/mL in 3mL
+Amiodarone	Tablet,	100mg (as HCl)
+Amiodarone	Tablet,	200mg (as HCl)
+Amitriptyline	Tablet,	25mg
+Amitriptyline	Tablet,	25mg (as HCl)
+Amlodipine	Tablet,	5mg
+Amlodipine + Hydrochlorothiazide (HCTZ)	Tablet,	5mg + 12.5mg
+Amoxicillin	Capsule,	500mg
+Amoxicillin	Tablet (dispersible scored),	250mg
+Amoxicillin + clavulanic acid	PFI,	1g + 200mg
+Amoxicillin + clavulanic acid	PFI,	500mg + 100mg
+Amoxicillin + clavulanic acid	Tablet (dispersible scored),	250mg + 62.5mg (i.e. 312.5mg)
+Amoxicillin + clavulanic acid	Tablet,	875mg + 125mg (i.e. 1g)
+Amoxicillin + clavulanic acid (Co-Amoxiclav)	Tablet,	875mg + 125mg (1g)
+Amphotericin B	PFI,	(Liposomal) 50mg vial
+Amphotericin B	PFI,	50mg (as sodium deoxycholate) vial
+Ampicillin	PFI,	500mg vial
+Anastrozole	Tablet,	1mg
+Anti Snake venom immunoglobulin	Injection (for IV infusion),	Monovalent serum (for Boomslang (Dyspholidus typus African) bites) vial
+Anti Snake venom immunoglobulin	Injection (for IV infusion),	Polyvalent serum (African) (10mL vial)
+Anti-D immunoglobulin	PFI + diluent,	750 IU/mL (2mL vial)
+Anti-Hepatitis B immunoglobulin (HBIG)	Injection,	100 IU/mL
+Anti-Rabies immunoglobulin	Injection,	200 IU/mL (5mL vial)
+Anti-Tetanus immunoglobulin	Injection,	500 IU vial
+Antithymocyte globulin (ATG) (rabbit)	PFI,	25mg vial
+Aripiprazole	Tablet,	15mg
+Arsenic trioxide	Concentrate solution for Infusion,	1mg/mL
+Artemether	Injection (oily IM),	80mg/mL in 1mL amp
+Artemether + lumefantrine (AL)	Tablet (dispersible),	20mg + 120mg 
+Artemether + lumefantrine (AL)	Tablet,	20mg + 120mg
+Artesunate  Injection (IM/IV)	Injection,	60mg vial
+Artesunate	Injection (IM/IV),	30mg vial
+Artesunate + Pyronaridine tetraphosphate	 Tablet (f/c),	60mg + 180mg
+Artesunate + Pyronaridine tetraphosphate	Granules for oral suspension,	20mg + 60mg 
+Ascorbic acid (Vit C)	Tablet,	50mg
+Asparaginase	PFI,	10000 IU vial
+Atazanavir (ATV)	Capsule,	100mg (as sulphate)
+Atazanavir + Ritonavir (ATV/r)	Tablet (heat-stable),	300mg + 100mg
+Atorvastatin	Tablet,	20mg
+Atorvastatin	Tablet,	40mg
+Atovaquone + Proguanil	Tablet (f/c),	250mg (as HCl) + 100mg
+Atovaquone + Proguanil	Tablet (f/c),	62.5mg (as HCl) + 25mg
+Atracurium	Injection,	10mg (as besilate)/mL (5mL amp)
+Atropine	Eye drops,	0.1% (as sulphate) 
+Atropine	Eye drops,	0.5% (as sulphate)
+Atropine	Injection,	1mg (as sulphate)/1mL amp
+Atropine sulphate	Injection,	1mg/1mL amp
+Azathioprine	Tablet (scored),	50mg
+Azathioprine	Tablet,	50mg
+Azelastine	Eye drops,	0.05%
+Azithromycin	Eye drops,	1.50%
+Azithromycin	PFOL,	200mg/5mL
+Azithromycin	Tablet (scored),	500mg (anhydrous)
+B vitamins high potency	Injection (IV),	Pair of amps. (2 x 5mL)
+B-Sitosterol	Ointment,	0.25% w/w (30gm)
+Barium sulphate	Paste (for oral or rectal use),	92% w/w concentration
+Barium sulphate	Suspension (aq),	95% w/w concentration (1 litre)
+Basiliximab	PFI,	20mg
+BCG  vaccine (live attenuated)	PFI + diluent,	1mL vial (multi dose)
+Bedaquiline (Bdq)	Tablet,	100mg
+Bendamustine	Injection,	100mg/20mL vial
+Benzathine benzylpenicillin	PFI,	900mg (1.2MU) vial
+Benzhexol	Tablet,	5mg (as HCl)
+Benzoyl peroxide	Gel,	5% (30g)
+Benztropine	Injection,	2mg/2mL
+Benzyl Benzoate	Lotion,	25% (50mL)
+Benzylpenicillin	PFI,	3g (5MU) (as sodium or potassium salt) vial
+Benzylpenicillin	PFI,	600mg (1MU) (as sodium or potassium salt) vial
+Betamethasone	Cream,	0.1% (as valerate)
+Betamethasone	Ointment,	0.1% (as valerate)
+Bevacizumab	Injection,	25mg/mL (4mL vial)
+Bicalutamide	Tablet,	50mg
+Bisacodyl	Suppository,	5mg
+Bisacodyl	Tablet,	5mg
+Bisoprolol	Tablet,	1.25mg
+Bisoprolol	Tablet,	5mg
+Bleomycin	PFI,	15mg vial (as sulphate)
+Bortezomib	PFI,	3.5mg vial
+Bromazepam	Tablet (scored),	3mg
+Budesonide	Inhalation (aerosol),	100 micrograms/dose (200 dose)
+Budesonide	Inhalation (aerosol),	200 micrograms/dose (200 dose)
+Budesonide	Nasal spray,	100 micrograms / metered dose 
+Budesonide + Formoterol	Dry powder inhaler,	100 micrograms + 6mg/metered dose (120 dose)
+Budesonide + Formoterol	Dry powder inhaler,	200 micrograms + 6mg/metered dose (120 dose)
+Bupivacaine	Injection (spinal),	0.5% (as HCl) (5mg/mL) + glucose 8% (80mg/mL) (4mL amp)
+Bupivacaine	Injection,	0.5% (as HCl) (10mL vial)
+Buprenorphine	Tablet (sublingual),	2mg (as HCl)
+Buprenorphine	Tablet (sublingual),	8mg (as HCl)
+Buprenorphine + Naloxone	Tablet (sublingual),	2mg + 500 micrograms (both as HCl)
+Buprenorphine + Naloxone	Tablet (sublingual),	8mg + 2mg (both as HCl)
+Bupropion	Tablet,	150mg
+Caffeine citrate	Injection,	20mg/mL (3mL vial) 
+Caffeine citrate	Oral liquid (drops),	20mg/mL (as disodium phosphate) 
+Calamine	Lotion,	15.00%
+Calcitriol (Vit D)	Capsule,	250 micrograms
+Calcitriol (Vit D)	Injection,	1 microgram/mL (1 mL)
+Calcium carbonate	Tablet (chewable),	1.25g
+Calcium carbonate	Tablet,	500mg
+Calcium folinate	Injection,	10mg/mL (30mL vial)
+Calcium folinate	Injection,	10mg/mL (5mL vial)
+Calcium folinate	Tablet,	15mg
+Calcium gluconate	Injection,	100mg/mL (10%) (10mL amp)
+Calcium gluconate	Injection,	100mg/mL in 10mL amp
+Capecitabine	Tablet,	150mg
+Capecitabine	Tablet,	500mg
+Carbamazepine	Oral liquid,	100mg/5mL
+Carbamazepine	Tablet (cross-scored),	200mg
+Carbamazepine	Tablet (cross-scored),	200mg (cross-scored)
+Carbergoline	Tablet,	0.5mg
+Carbetocin	Injection (heat stable),	100 micrograms/mL
+Carbimazole	Tablet,	5mg
+Carboplatin	Injection,	10mg/mL (15mL vial)
+Carboplatin	Injection,	10mg/mL (45mL vial)
+Carvedilol	Tablet,	12.5mg
+Carvedilol	Tablet,	6.25mg
+Cefazolin	PFI,	1g (as sodium salt) in vial
+Cefixime	Tablet,	400mg (as trihydrate)
+Ceftazidime	PFI,	1g (as pentahydrate) vial
+Ceftazidime	PFI,	250mg (as pentahydrate) vial
+Ceftriaxone	Injection (IM/IV),	1g (as sodium salt) in vial
+Ceftriaxone	Injection (IM/IV),	250mg (as sodium salt) 
+Celecoxib	Tablet,	200mg
+Chamber bag for central administration	Solution for IV infusion,	1 litre
+Chamber bag for central administration	Solution for IV infusion,	2 litres
+Chamber bag for central administration for Medum chain Triglycerides (MCT) / Long chain Triglycerides (LCT)	Solution for IV infusion,	2 litres
+Chamber bag for central administration for Medum chain Triglycerides (MCT) / Long chain Triglycerides (LCT)	Solution for IV infusion,	1 litre
+Chamber bag for peripheral administration	Solution for IV infusion,	1 litre
+Chamber bag for peripheral administration	Solution for IV infusion,	1.5 litre
+Chamber bag for peripheral administration for Medum chain Triglycerides (MCT) / Long chain Triglycerides (LCT)	Solution for IV infusion,	1 litre
+Chamber bag for peripheral administration for Medum chain Triglycerides (MCT) / Long chain Triglycerides (LCT)	Solution for IV infusion,	1.5 litre
+Chlorambucil	Tablet,	2mg
+Chlorhexidine	Gel,	7.1% (as digluconate) (20 g tube) 
+Chlorhexidine	Solution (mouthwash),	0.2% (as gluconate/digluconate)
+Chlorhexidine	Solution for dilution,	5% (as gluconate/ digluconate)
+Chlorpheniramine	Injection,	10mg (as maleate)/1mL amp
+Chlorpheniramine	Oral liquid,	2mg (as maleate)/5mL
+Chlorpromazine	Injection,	25mg/mL (as HCl) (2mL amp)
+Chlorpromazine	Tablet,	100mg (as HCl)
+Chlorpromazine	Tablet,	50mg (as HCl)
+Cholecalciferol (Vit D)	Injection (IM/Oral),	300000 IU/1mL amp
+Cholecalciferol (Vit D)	Oral liquid (drops),	400 IU/mL 
+Cholera vaccine	Oral suspension,	1.5mL vial (single dose) single dose vial
+Cinnarizine	Tablet,	25mg
+Ciprofloxacin	Solution (ear drops),	0.3% (as HCl)
+Ciprofloxacin	Tablet (scored),	500mg (as HCl)
+Ciprofloxacin + Dexamethasone	Solution (ear drops),	0.3% (as HCl) + 0.1%
+Cisatracurium	Injection,	2mg (as besilate)/mL (10mL amp)
+Cisplatin	Injection,	1mg/mL (50mL vial)
+Clarithromycin	Tablet (scored),	500mg
+Clindamycin	Capsule,	150mg (as HCl)
+Clindamycin	Injection,	150mg (as phosphate)/mL (2mL vial)
+Clindamycin	Oral liquid,	75mg (as palmitate)/5mL 
+Clobetasone propionate	Ointment,	0.05%
+Clofazamine	Capsule,	100mg
+Clofazamine	Capsule,	50mg
+Clofazimine (Cfx)	Capsule,	100mg
+Clofazimine (Cfx)	Capsule,	50mg
+Clomifene (Clomiphene)	Tablet,	50mg (as citrate)
+Clomipramine	Capsule,	25mg (as HCl)
+Clopidogrel	Tablet,	75mg
+Clotrimazole	Cream,	1.00%
+Clotrimazole	Solution (ear drops),	1.00%
+Clotrimazole	Vaginal tablet,	500mg
+Clozapine	Tablet (scored),	100mg
+Coagulation factor IX	PFI (Extended half-life),	1000 IU vial
+Coagulation factor IX	PFI (Extended half-life),	250 IU/vial
+Coagulation factor IX	PFI (Extended half-life),	500 IU/vial
+Coagulation factor VIII	PFI (Extended half-life),	1000 IU vial
+Coagulation factor VIII	PFI (Extended half-life),	250 IU vial
+Coagulation factor VIII	PFI (Extended half-life),	500 IU vial
+Colchicine	Tablet,	500 micrograms
+Colistin	PFI,	1MU (as colistimethate sodium) vial
+Collagenase clostridiopeptidase A + Proteases	Ointment,	1.2 units + 0.24 units (15g)
+Conjugated Estrogens	Cream (Vaginal),	0.625mg/g (30g)
+Conjugated Estrogens	Tablet,	300 micrograms
+Copper-containing device	Depot Injection (SC),	105 mg/0.65 mL (prefilled syringe)
+Cotrimoxazole (Sulfamethoxazole + Trimethoprim)	Injection,	96mg/mL (5mL amp)
+Cotrimoxazole (Sulfamethoxazole + Trimethoprim)	Oral liquid,	240mg/5mL 
+Cotrimoxazole (Sulfamethoxazole + Trimethoprim)	Tablet (scored),	800 + 160mg
+Cotrimoxazole (Sulfamethoxazole + Trimethoprim)	Tablet,	800 + 160mg
+Crotamiton	Cream,	10% (30g)
+Cyclophosphamide	PFI,	1g vial
+Cyclophosphamide	PFI,	500mg vial
+Cyclophosphamide	Tablet,	50mg
+Cycloserine (Cs)	Tablet,	125mg 
+Cycloserine (Cs)	Tablet,	250mg
+Cyclosporin	Capsule,	100mg
+Cyclosporin	Capsule,	25mg
+Cyclosporin	Concentrate for injection,	50mg/mL in 1mL amp
+Cytarabine	PFI,	100mg vial
+Cytarabine	PFI,	1g vial
+Dacarbazine	PFI,	200mg vial (as citrate)
+Dactinomycin (Actinomycin D)	PFI,	500 micrograms vial
+Danazol	Capsule,	50mg
+Dantrolene	Injection,	20mg
+Dapsone	Tablet,	100mg
+Dapsone	Tablet,	25mg
+Darunavir (DRV)	Oral liquid,	10mg/mL (200mL)
+Darunavir (DRV)	Tablet (f/c),	600mg
+Darunavir (DRV)	Tablet,	150mg
+Darunavir (DRV)	Tablet,	75mg
+Daunorubicin	PFI,	20mg vial (as HCl)
+Daunorubicin	PFI,	50mg vial (as HCl)
+Deferasirox	Tablet,	100mg
+Deferasirox	Tablet,	400mg
+Deferoxamine	PFI,	500mg (as mesilate) vial
+Deferoxamine mesilate	PFI,	500mg vial
+Delamanid (Dlm)	Tablet,	50mg
+Dexamethasone	Injection,	4mg (as disodium phosphate)/mL
+Dexamethasone	Injection,	4mg (as sodium phosphate)/1mL amp
+Dexamethasone	Injection,	4mg/1mL amp (as sodium phosphate)
+Dexamethasone	Tablet (scored),	4mg
+Dexamethasone	Tablet,	4mg
+Dexamethasone	Tablet,	500 micrograms
+Dexketoprofen	Tablet,	25mg
+Dexmedetomidine	Injection,	100 micrograms/mL (2mL)
+Diazepam	Injection,	5mg/mL (2mL amp)
+Diazepam	Rectal gel,	5mg/mL (0.5mL tube)
+Diazepam	Tablet (scored),	5mg
+Diazoxide	Suspension,	50mg/mL
+Dienogest	Tablet,	2mg
+Diethylcarbamazine (DEC)	Tablet (scored),	100mg (as dihydrogen citrate)
+Diethylstilboestrol (DES)	Tablet,	5mg
+Digoxin	Oral liquid,	50 micrograms/mL
+Digoxin	Tablet,	125 micrograms
+Digoxin	Tablet,	250 micrograms
+Dihydroartemisinin + Piperaquine (DHA-PPQ)	Tablet (scored),	40mg + 320mg
+Dihydroartemisinin + Piperaquine (DHA-PPQ)	Tablet,	20mg + 160mg
+Dihydrocodeine phosphate	Tablet,	30mg
+Diloxanide	Tablet,	500mg (as furoate)
+Diloxanide furoate + Metronidazole	Oral liquid,	250mg + 200mg
+Diloxanide furoate + Metronidazole	Tablet,	500mg + 400mg
+Distilled water	Liquid,	500mL
+Dithranol	Paste,	2.00%
+Divalproex sodium	Tablet,	500mg
+Divalproex sodium	Tablet,	750mg
+Dobutamine	Injection (solution),	12.5mg/mL (20mL)
+Docetaxel	Injection (premixed),	20mg vial
+Docetaxel	Injection (premixed),	80mg vial
+Dolutegravir (DTG)	Tablet,	50mg
+Domperidone	Oral liquid,	5mg/5mL
+Domperidone	Tablet,	10mg
+Donepezil	Tablet,	10mg
+Donepezil	Tablet,	5mg
+Dopamine	Injection,	40mg/mL (as HCl) (5mL vial)
+Dorzolamide	Eye drops,	2% (as HCl)
+Doxazosin	Tablet,	2mg
+Doxorubicin	PFI or Solution for Injection,	10mg vial (as HCl)
+Doxorubicin	PFI or Solution for Injection,	50mg vial (as HCl)
+Doxycycline	Capsule,	100mg (as HCl)
+Doxycycline	Capsule,	100mg (as HCl or hyclate)
+Doxycycline	Tablet / Capsule,	100mg (as hyclate)
+DPT + HiB + Hep B vaccine (pentavalent)	Injection (suspension),	5mL vial (10 doses)
+Efavirenz (EFV)	Tablet,	200mg (cross-scored) 
+Eflornithine	Injection,	200mg (as HCl)/mL in 100mL bottle
+Empagliflozin	Tablet,	10mg
+Enalapril	Tablet (scored),	5mg (as hydrogen maleate)
+Enalapril	Tablet,	10mg (as hydrogen maleate)
+Enoxaparin	Injection (prefilled and calibrated syringe),	40mg/0.4mL
+Enoxaparin	Injection (prefilled and calibrated syringe),	80mg/0.8mL
+Entecavir	Oral liquid,	0.05mg/mL
+Entecavir	Tablet,	0.5mg
+Ephedrine	Injection,	30mg (as HCl)/1mL
+Epinephrine (adrenaline)	Injection,	1mg (as sodium phosphate)/1mL amp
+Epinephrine (adrenaline)	Injection,	1mg/1mL amp
+Ergocalciferol (Vit D)	Oral liquid,	250 micrograms (10000 IU)/mL
+Ergocalciferol (Vit D)	Tablet / Capsule,	1.25mg (50000 IU)
+Ergocalciferol (Vit D)	Tablet / Capsule,	250 micrograms (10000 IU)
+Ergometrine	Injection,	500 micrograms (as hydrogen maleate)/1mL amp
+Ertapenem 	PFI,	1g
+Erythromycin	Eye ointment,	0.50%
+Erythropoetin (alpha or beta) stimulating agents	Injection (prefilled syringe),	2000 IU/ 0.5mL
+Escitalopram	Tablet,	10mg
+Estradiol	Transdermal patch,	0.1mg/day
+Etanercept	Injection,	25mg vial
+Etanercept	Injection,	50mg vial
+Ethambutol (E)	Tablet,	100mg (dispersible)
+Ethambutol (E)	Tablet,	400mg
+Ethanol	Injection,	100% (10mL amp)
+Ethanol	Solution,	70% (denatured)
+Ethanol Medicinal	Oral liquid,	95-96%
+Ethinylestradiol + Levonorgestrel	Tablet,	30 micrograms + 150 micrograms
+Ethinylestradiol + Norethisterone	Tablet,	35 micrograms + 1mg
+Etonorgestrel-releasing implant	Implant,	68mg (1 rod)
+Etoposide	Capsule,	100mg
+Etoposide	Capsule,	50mg
+Etoposide	Injection,	20mg/mL (5mL vial)
+Etravirine (ETV)	Tablet,	100mg
+Etravirine (ETV)	Tablet,	200mg
+Etravirine (ETV)	Tablet,	25mg
+Everolimus	Tablet,	500 micrograms (or 0.5mg)
+Fat (lipid)	Infusion (emulsion) (IV),	20% (100mL) 
+Fat (lipid)	Infusion (emulsion) (IV),	20% (500mL)
+Fat-soluble vitamins (for adults)	Solution for IV infusion,	10mL
+Fat-soluble vitamins (for infants and children)	Solution for IV infusion,	10mL
+Febuxostat	Tablet,	40mg
+Fentanyl	Injection (preservative-free),	50 micrograms (as citrate)/mL (2mL amp)
+Fentanyl	Transdermal patch,	25 micrograms/hr
+Fentanyl	Transdermal patch,	50 micrograms/hr
+Ferrous salt	Oral liquid (drops),	Equivalent to 25mg (iron as sulphate)/mL
+Ferrous salt	Tablet (f/c),	60-65mg elemental iron
+Ferrous salt + Folic acid	Tablet,	60-65mg elemental iron + 400 micrograms
+Filgrastim	Injection (prefilled syringe),	120 micrograms/0.2mL
+Filgrastim	Injection (prefilled syringe),	300 micrograms/0.5mL
+Finasteride	Tablet,	5mg
+Flucloxacillin	Capsule,	250mg (as sodium salt)
+Flucloxacillin	PFI,	500mg (as sodium salt) vial
+Flucloxacillin	PFOL,	125mg (as sodium salt)/5mL
+Fluconazole	Injection,	2mg/mL (100mL bottle)
+Fluconazole	Oral liquid,	50mg/5mL
+Fluconazole	Tablet / Capsule,	150mg
+Fluconazole	Tablet / Capsule,	200mg
+Flucytosine	Capsule,	250mg
+Fludrocortisone	Tablet,	100 micrograms (as acetate)
+Flumazenil	Injection,	100 micrograms/mL (5mL amp)
+Fluorescein	Test strip,	0.6mg
+Fluoromethalone	Eye drops,	0.10%
+Fluorouracil	Injection,	50mg/mL (5mL vial)
+Fluoxetine	Tablet (scored),	20mg (as HCl)
+Flupentixol	Injection (oily depot),	20mg/mL (as decanoate) (2mL amp)
+Fluphenazine	Injection (oily depot),	25mg/1mL (as decanoate) amp
+Fluticasone	Nasal spray,	27.5 micrograms (as propionate or furoate)
+Folic acid	Tablet,	400 micrograms
+Folic acid	Tablet,	5mg
+Fomepizole	Injection,	5mg (as sulphate)/mL (20mL amp)
+Fortified Blended Food (FBF)	Flour,	1000 kcal/250g (Bag or Sachet)
+Fortified Blended Food (FBF)	Flour,	415kcal/100g (Sachet)
+Fortified Blended Food (FBF)	Flour,	435kcal/100g (Sachet)
+Fortified Blended Food (FBF)	Flour,	450kcal/100g (Sachet)
+Fosaprepitant	Injection,	150mg
+Fosfomycin	Granules for oral suspension,	3g sachet
+Fosfomycin	PFI,	3g (as sodium) vial
+Furosemide	Injection,	10mg/mL (2mL amp)
+Furosemide	Oral liquid,	20mg/5mL 
+Furosemide	Tablet (cross-scored),	40mg
+Fusidic acid	Ointment,	2% (15g)
+Gabapentin	Tablet,	300mg
+Gadobutrol	Injection (solution) (IV),	1mmol/mL (15mL)
+Gadobutrol	Injection (solution) (IV),	1mmol/mL (7.5mL)
+Gadodiamide	Injection (solution) (IV),	0.5 mmol/mL (20mL)
+Gadopentate dimeglumine	Injection (solution) (IV),	0.5 mmol/mL (10mL)
+Gadopentate dimeglumine	Injection (solution) (IV),	0.5 mmol/mL (15mL)
+Gancyclovir	PFI,	500mg vial
+Gefitinib	Tablet,	250mg
+Gelatin-based colloid	Solution for Infusion,	4.00%
+Gemcitabine	PFI,	1g vial
+Gemcitabine	PFI,	200mg vial
+Gentamicin	Eye drops,	0.3% (as sulphate)
+Gentamicin	Injection,	10mg/mL (as sulphate) (2mL vial)
+Gentamicin	Injection,	40mg/mL (as sulphate) (2mL vial)
+Gentamicin + Dexamethasone	Eye drops,	0.3% + 0.1%
+Gliclazide	Tablet (i/r),	40mg
+Gliclazide	Tablet (m/r),	30mg
+Glucose	Injectable solution,	10% (hypertonic) (500mL infusion pack)
+Glucose	Injectable solution,	5% (isotonic) (500mL infusion pack)
+Glucose	Injectable solution,	50% (hypertonic) (50mL amp)
+Glucose + Sodium chloride	Injectable solution,	5% + 0.9% 
+Glutaral	Solution,	2.00%
+Glyceryl trinitrate	Tablet (sublingual),	500 micrograms
+Glycopyrronium	Injection,	200 micrograms (as bromide)/mL
+Golimumab	Injection (solution) (SC),	50mg
+Goserelin	Implant (in syringe applicator),	10.8mg (as acetate)
+Goserelin	Implant (in syringe applicator),	3.6mg (as acetate)
+Goserelin	Injection (depot sc),	3.6mg (as acetate)
+Griseofulvin	Tablet,	125mg
+Griseofulvin	Tablet,	500mg
+Haemodialysis solution	Parenteral solution,	Of appropriate composition
+Haloperidol	Injection (oily),	50mg/1mL amp
+Haloperidol	Injection,	5mg/1mL amp
+Haloperidol	Tablet (scored),	5mg
+Heparin sodium	Injection,	5000 IU/mL (5mL vial)
+Hepatitis A vaccine	Injection,	160 units (Adult)
+Hepatitis A vaccine	Injection,	80 units (Paed)
+Hepatitis B vaccine	Injection (suspension),	Multi dose vial
+Hepatitis B vaccine	Injection (suspension),	Single dose vial
+High calorie high protein formula	Diskettes,	200g
+High calorie high protein formula	Powder,	200g
+High energy high protein oral sip feed	Liquid,	200mL
+HPV vaccine (quadrivalent)	Injection,	Single or multi dose vial
+Human albumin infusion	Solution,	20.00%
+Human albumin infusion	Solution,	5.00%
+Human chorionic gonadotropin (HCG)	Injection,	5000 IU/vial
+Human Epidermal growth factor (recombinant)	Gel (water-based),	60 micrograms (15g)
+Human menopausal gonadotropin (HMG)	Injection,	75 IU
+Human Platelet derived growth factor (recombitant)	Gel (water-based),	100 micrograms (15g)
+Hydralazine	Injection,	20mg (as HCl)
+Hydralazine	Tablet,	25mg (as HCl)
+Hydralazine	Tablet,	50mg (as HCl)
+Hydrochlorothiazide (HCTZ)	Tablet (scored),	25mg
+Hydrocortisone	Cream,	1% (as acetate)
+Hydrocortisone	Ointment,	1% (as acetate)
+Hydrocortisone	PFI,	100mg (as sod. succinate) vial
+Hydrocortisone	PFI,	100mg vial (as sodium succinate)
+Hydrocortisone	Tablet,	20mg
+Hydrocortisone	Tablet,	5mg
+Hydrogen peroxide	Solution (ear drops),	3% (stabilised)
+Hydroxocobalamin (Vit B)	Injection,	1mg/1mL amp (as HCl acetate or sulphate)
+Hydroxycarbamide (Hydroxyurea)	Capsule,	250mg
+Hydroxycarbamide (Hydroxyurea)	Capsule,	500mg
+Hydroxycarbamide (Hydroxyurea)	SODF,	100mg/45mL
+Hydroxycarbamide (Hydroxyurea)	SODF,	500mg
+Hydroxychloroquine (HCQ)	Tablet,	200mg (as sulphate)
+Hydroxyethyl starch	Solution for Infusion,	6.00%
+Hyoscine butylbromide	Injection,	20mg/1mL amp
+Hyoscine butylbromide	Tablet,	10mg
+Hypertonic saline	Eye drops,	3.00%
+Hypocaloric sip feed with fibre	Liquid,	200mL
+Ibuprofen	Injection solution,	5mg/mL (2mL amp) 
+Ibuprofen	Oral liquid,	100mg/5mL 
+Ibuprofen	Tablet,	200mg 
+Ifosfamide + Mesna	Injection,	1g + 600mg
+Ifosfamide + Mesna	Injection,	2g + 1200mg
+Imatinib	Tablet,	100mg (as mesylate)
+Imatinib	Tablet,	400mg (as mesylate)
+Imipenem + Cilastatin	PFI,	250mg + 250mg vial
+Imipenem + Cilastatin	PFI,	500mg + 500mg vial
+Infliximab	PFI,	100mg
+Influenza vaccine (inactivated)	Injection,	0.5mL vial (single dose)
+Insulin  Premixed (Ultra short acting + Intermediate acting)	Injection,	100 IU/mL (10mL vial)
+Insulin intermediate-acting	Injection,	100 IU/mL (10mL vial)
+Insulin Long-acting (basal) [Glargine]	Injection,	100 IU/mL (10mL vial)
+Insulin Premixed (Short acting + Intermediate acting)	Injection,	100 IU/mL (10mL vial)
+Insulin Short acting (Soluble)	Injection,	100 IU/mL (10mL vial)
+Insulin Ultra short-acting (Rapid)	Injection,	100 IU/mL (10mL vial)
+Intraperitoneal dialysis solution (CAPD)	Parenteral solution,	Of appropriate composition
+Ipratropium bromide	Inhalation (aerosol),	20 micrograms/metered dose (200 dose)
+Ipratropium bromide	Nebuliser solution,	500 micrograms/2mL unit dose vial (isotonic)
+Irinotecan	Injection,	20mg/mL (2mL vial)
+Irinotecan	Injection,	20mg/mL (5mL vial)
+Iron sucrose	Injection,	100mg
+Iso-osmolar contrast media	Solution for IV injection/infusion,	320mg iodine/mL (100mL)
+Isoniazid (H)	Tablet (scored),	50mg
+Isoniazid (H)	Tablet,	100mg
+Isoniazid (H)	Tablet,	300mg
+Isosorbide dinitrate	Tablet,	20mg
+Itraconazole	Capsule,	100mg
+Ivabradine	Tablet (scored),	5mg
+Ivabradine	Tablet,	7.5mg
+Ivermectin	Tablet (scored),	3mg
+Ketamine	Injection,	50mg (as HCl)/mL (10mL vial)
+Ketorolac	Injection (IM/IV),	30mg/mL
+Ketorolac trometamol	Eye drops,	0.50%
+Labetalol	Injection,	5mg/mL (20mL amp)
+Lactulose	Oral liquid,	3.1-3.7g/5mL
+Lamivudine (TC)	Oral liquid,	50mg/5mL
+Lamivudine (TC)	Tablet,	150mg
+Lamotrigine	Tablet,	100mg
+Lamotrigine	Tablet,	25mg
+Lamotrigine	Tablet,	25mg (chewable dispersible)
+Lamotrigine	Tablet,	5mg (chewable dispersible)
+Lansoprazole	Tablet (dispersible),	15mg 
+Latanoprost	Solution (eye-drops),	0.01%
+Ledipasvir + Sofosbuvir	Tablet,	90mg + 400mg
+Leflunomide	Tablet,	20mg
+Lenalidomide	Capsule,	25mg
+Lenalidomide	Capsule,	5mg
+Letrozole	Tablet,	2.5mg
+Leuprorelin (Leuprolide)	Injection (depot sc),	3.75mg (as acetate)
+Levetiracetam	Injection (IV),	500mg
+Levetiracetam	Tablet (scored),	500mg
+Levodopa + Carbidopa	Tablet,	100mg + 10mg
+Levodopa + Carbidopa	Tablet,	250mg + 25mg
+Levofloxacin (Lfx)	Tablet (dispersible),	100mg 
+Levofloxacin (Lfx)	Tablet (scored),	500mg
+Levofloxacin (Lfx)	Tablet,	250mg
+Levofloxacin (Lfx)	Tablet,	750mg
+Levonorgestrel	Tablet,	1.5mg
+Levonorgestrel	Tablet,	30 micrograms
+Levonorgestrel	Tablet,	750 micrograms (pack of 2)
+Levonorgestrel (LNG)	Implant,	Reservoir with 52mg
+Levonorgestrel-releasing implant	Implant,	150mg (2 x 75mg rods)
+Levothyroxine	Tablet,	100 micrograms (as sodium salt)
+Levothyroxine	Tablet,	25 micrograms (as sodium salt) 
+Levothyroxine	Tablet,	50 micrograms (as sodium salt)
+Lignocaine	Injection (preservative-free),	1% (as HCl) (vial)
+Lignocaine	Injection,	2% (as HCl) (30mL vial)
+Lignocaine	Spray,	10mg/metered dose (actuation)
+Lignocaine	Topical spray,	2% (as HCl)
+Lignocaine + Epinephrine (Adrenaline)	Dental cartridge,	2% + 1:80000 (1.8mL cartridge)
+Lignocaine + Epinephrine (Adrenaline)	Injection,	2% (HCl or sulphate) + 1:200000 in vial
+Linezolid	Injection (IV),	2mg/mL in 300mL bag
+Linezolid	Tablet,	600mg
+Linezolid (Lzd)	Tablet (dispersible),	150mg 
+Linezolid (Lzd)	Tablet,	600mg
+Lipid emulsion	Injection,	20% (200 to 500mL)
+Liposomal Doxorubicin	Solution for Injection,	20mg vial
+Liquid paraffin	Nasal drops,	100.00%
+Lisinopril + Hydrochlorothiazide	Tablet,	20mg + 12.5mg
+Lithium carbonate	Tablet (m/r),	400mg
+Lithium carbonate	Tablet (scored),	400mg
+Loperamide	Capsule,	2mg
+Lopinavir + ritonavir (LPV/r)	Oral liquid,	400mg + 100mg/5mL
+Lopinavir + ritonavir (LPV/r)	Oral Pellets (capsule),	40mg + 10mg 
+Lopinavir + ritonavir (LPV/r)	Tablet (heat-stable),	100mg + 25mg
+Lopinavir + ritonavir (LPV/r)	Tablet (heat-stable),	200mg + 50mg
+Loratadine	Tablet,	10mg
+Lorazepam	Injection,	4mg/1mL amp
+Losartan	Tablet (scored),	50mg
+Losartan + Hydrochlorothiazide (HCTZ)	Tablet,	50mg + 12.5mg
+Low fat formula	Powder,	200g to 500g
+Lugol’s Iodine solution	PFOL,	130mg total iodine/mL
+Magnesium chloride	Tablet,	71.5mg (containing Calcium as carbonate 119mg per tablet)
+Magnesium sulphate	Injection,	500mg/mL (50%) (10mL amp/vial)
+Malaria vaccine	Injection,	1mL vial (2 doses)
+Mannitol	Injectable solution,	20.00%
+Measles + Rubella vaccine (MR)	PFI + diluent,	5mL vial (10 doses)
+Measles vaccine (live attenuated)	PFI + diluent,	5mL vial (10 doses)
+Mebendazole	Tablet (chewable dispersible),	500mg
+Medroxyprogesterone	Tablet,	5mg (as acetate)
+Medroxyprogesterone acetate (DMPA)	Depot Injection (IM),	150mg/1mL (prefilled syringe)
+Medroxyprogesterone acetate (DMPA)	Depot Injection (SC),	104 mg/0.65 mL (prefilled syringe)
+Mefloquine	Tablet,	250mg (as HCl)
+Melarsoprol	Injection,	3.6% solution (= 180mg) 5mL amp
+Melatonin	Tablet (soluble),	4mg
+Melphalan	PFI,	50mg vial
+Melphalan	Tablet,	2mg
+Memantine	Tablet,	5mg
+Meningococcal meningitis vaccine	Injection,	Single or multi dose
+Mercaptopurine	Tablet,	50mg
+Meropenem	PFI,	500mg (as trihydrate)
+Mesalazine	Tablet (e/c),	400mg
+Mesna	Injection,	100mg/mL (2mL amp)
+Mesna	Injection,	100mg/mL (4mL amp)
+Mesna	Tablet,	400mg
+Metformin	Tablet,	500mg (as HCl)
+Metformin	Tablet,	500mg (as HCl) 
+Methadone	Oral liquid,	5mg/mL (as HCl) (concentrate)
+Methotrexate	PFI (preservative-free),	25mg (as sodium salt)/mL (20mL vial)
+Methotrexate	PFI (preservative-free),	25mg (as sodium salt)/mL (2mL vial)
+Methotrexate	Tablet,	10mg
+Methotrexate	Tablet,	2.5mg (as sodium salt)
+Methotrexate (MTX)	Injection (prefilled syringe),	10mg/mL (0.4mL)
+Methotrexate (MTX)	Injection (prefilled syringe),	25mg/mL (0.4mL)
+Methotrexate (MTX)	Tablet,	2.5mg (as sodium salt)
+Methyl cellulose	Eye drops,	0.3 - 1%
+Methyldopa	Tablet (f/c),	250mg
+Methylphenidate	Tablet (e/r),	18mg
+Methylphenidate	Tablet,	10mg
+Methylprednisolone	PFI,	125mg (as sodium succinate)
+Methylprednisolone	PFI,	1g vial (as sodium succinate)
+Methylprednisolone	PFI,	500mg (as sodium succinate)
+Methylprednisolone	PFI,	500mg (as sodium succinate) 
+Metoclopramide	Injection,	5mg/mL (2mL amp)
+Metoclopramide	Tablet,	10mg
+Metolazone	Tablet,	5mg
+Metronidazole	Gel,	0.75% or 0.80%
+Metronidazole	Injection,	500mg/100mL vial
+Metronidazole	Injection,	5mg/mL (100mL vial)
+Metronidazole	Oral liquid,	200mg/5mL (as benzoate)
+Metronidazole	Tablet (f/c scored),	400mg
+Metronidazole	Tablet,	400mg (scored)
+Miconazole	Cream,	2% (as nitrate)
+Midazolam	Injection (IM),	5mg/mL (3mL amp)
+Midazolam	Injection,	10mg/mL
+Midazolam	Injection,	1mg (as HCl)/mL (5mL amp)
+Midazolam	Oromucosal solution,	10mg/mL
+Midazolam	Oromucosal solution,	5mg/mL
+Mifepristone + Misoprostol	Tablet,	200mg + 200 micrograms
+Milrinone	Injection (solution),	1mg/mL (10mL)
+Mirtazapine	Tablet,	15mg
+Misoprostol	Tablet,	200 micrograms
+Misoprostol	Vaginal tablet,	25 micrograms
+Mometasone	Ointment,	0.1% (as furoate) (30g)
+Montelukast	Tablet (chewable),	5mg (as sodium salt)
+Montelukast	Tablet,	10mg (as sodium salt)
+Morphine	Injection (for Infusion),	30mg/mL
+Morphine	Injection,	10mg (as HCl or sulphate) /1mL amp
+Morphine	Oral liquid,	10mg (as HCl or sulphate)/mL
+Morphine	Oral liquid,	1mg (as HCl or sulphate)/mL
+Morphine	Tablet (m/r),	30mg (sulphate)
+Moxifloxacin (Mfx)	Tablet (dispersible),	100mg 
+Moxifloxacin (Mfx)	Tablet,	400mg
+Mupirocin	Ointment,	2% (15g)
+Mycophenolate mofetil	Tablet,	250mg
+Mycophenolate mofetil	Tablet,	500mg
+Mycophenolic acid	Tablet (e/c),	180mg (as mycophenolate sodium)
+Mycophenolic acid	Tablet (e/c),	360mg (as mycophenolate sodium)
+Naloxone	Injection,	400 micrograms (as HCl)/1mL amp
+Naltrexone	Implant,	765mg (as HCl)
+Naltrexone	Injection (IM suspension for extended release),	380mg (as HCl)
+Naltrexone	Tablet,	50mg (as HCl)
+Natamycin	Eye drops,	5.00%
+Neomycin + Betamethasone	Solution (ear & nasal drops),	0.5% (as sulphate) + (0.1% as sodium phosphate)
+Neostigmine	Injection,	2.5mg (as metasulphate)/1mL amp
+Nevirapine (NVP)	Oral liquid,	10mg/mL
+Nevirapine (NVP)	Tablet (dispersible),	50mg
+Niacinamide	Tablet,	500mg
+Nicotine (NRT)	Chewing gum,	2mg
+Nicotine (NRT)	Chewing gum,	4mg
+Nicotine (NRT)	Transdermal patch,	7-21mg/24 hours
+Nifedipine	Tablet (s/r),	20mg
+Nifurtimox	Tablet,	120mg
+Nilotinib	Capsule,	200mg
+Nitrofurantoin	Oral liquid,	25mg/5mL 
+Nitrofurantoin	Tablet,	100mg
+Nitroglycerin (NTG)	Injection,	2.5mg/mL (10mL) amp
+Non ionic low osmolar water-soluble iodinated contrast media	Injection,	300mg iodine/mL (100mL) 
+Non ionic low osmolar water-soluble iodinated contrast media	Injection,	300mg iodine/mL (100mL) [For intrathecal oral intra-cavitary and intravenous use] 
+Non ionic low osmolar water-soluble iodinated contrast media	Injection,	300mg iodine/mL (50mL) 
+Non ionic low osmolar water-soluble iodinated contrast media	Injection,	300mg iodine/mL (50mL) [For intrathecal oral intra-cavitary and intravenous use] 
+Non ionic low osmolar water-soluble iodinated contrast media	Injection,	350mg iodine/mL (100ml) [For oral intra-cavitary and intravenous use]
+Non ionic low osmolar water-soluble iodinated contrast media	Injection,	350mg iodine/mL (100mL)
+Non ionic low osmolar water-soluble iodinated contrast media	Injection,	350mg iodine/mL (50ml) [For oral intra-cavitary and intravenous use]
+Non ionic low osmolar water-soluble iodinated contrast media	Injection,	350mg iodine/mL (50mL)
+Norepinephrine (Noradrenaline)	Injection,	1mg/mL
+Norethisterone	Tablet,	5mg
+Normal immunoglobulin	Injection (IV),	10% protein solution (100mL vial)
+Normal immunoglobulin	Injection (IV),	5% protein solution (100mL vial)
+Nutritionally complete diet fibre-free for tube feeding	Liquid,	1000mL
+Nutritionally complete diet fibre-free for tube feeding	Liquid,	500mL
+Nutritionally complete formula with fibre for tube feeding	Liquid,	1000mL
+Nutritionally complete formula with fibre for tube feeding	Liquid,	500mL
+Nutritionally complete glutamine-enriched liquid formula	Liquid,	500mL
+Nutritionally complete high protein energy sip feed	Liquid,	200mL
+Nutritionally complete hydrolysed diet with fibre	Liquid,	1000mL
+Nutritionally complete Iso-caloric paediatric tube feed	Liquid,	500mL
+Nutritionally complete liquid diet isocaloric	Liquid,	1000mL
+Nutritionally complete liquid low sodium formula	Liquid,	500mL
+Nutritionally complete low glycemic index formula	Powder,	400g sachet
+Nutritionally complete normal caloric diet for diabetes tube feed with fibre	Liquid,	200mL
+Nutritionally complete normal caloric diet for diabetes tube feed with fibre	Liquid,	500mL
+Nutritionally complete Sip feed	Liquid,	200mL
+Nutritionally complete with Medium Chain Triglyceride peptide diet	Liquid,	500mL
+Nystatin	Oral liquid (suspension),	100000 IU/mL 
+Ofloxacin	Eye drops,	0.3% (as sulphate)
+Olanzapine	PFI,	10mg
+Olanzapine	Tablet (dispersible),	10mg
+Olanzepine	Tablet,	5mg
+Omega  fatty acids	Liquid,	250mg to 500mg/100mL (100 to 200mL)
+Omega  fatty acids	Tablet / Capsule,	1g
+Omeprazole	Capsule,	20mg
+Omeprazole	PFI,	40mg (as sodium salt) vial
+Ondansetron	Injection,	2mg (as HCl)/mL (2mL amp)
+Ondansetron	Oral liquid,	4mg base/5mL 
+Ondansetron	Tablet,	4mg (as HCl)
+Oral rehydration salts (ORS)	PFOL (to make mL),	Sachet (WHO low-osmolarity formula)
+Oral rehydration salts + Zinc sulphate	Co-pack ( sachets +  tablets),	PFOL in sachet to make 500mL + 20mg tablet (dispersible) 
+Oseltamivir	Oral powder,	12mg/mL
+Oxaliplatin	Solution for Injection,	2mg/mL (25mL vial)
+Oxaliplatin	Solution for Injection,	2mg/mL (50mL vial)
+Oxytocin	Injection,	10 IU/1mL amp
+p-aminosalicylic acid (PAS)	Granules,	4g sachet
+Paclitaxel	Concentrate (for IV infusion),	6mg/mL (16.7mL vial)
+Paclitaxel	Concentrate (for IV infusion),	6mg/mL (50mL vial)
+Paclitaxel	Concentrate (for IV infusion),	6mg/mL (5mL vial)
+Paediatric nutritionally complete isocaloric formula	Powder,	400g 
+Paediatric nutritionally complete peptide based formula	Powder,	400g 
+Paediatric trace elements	Solution for IV infusion,	10mL 
+Paliperidone palmitate	Injection,	100mg/mL
+Paliperidone palmitate	Injection,	150mg/mL
+Paliperidone palmitate	Injection,	75mg/mL
+Papain + Urea (Papain-urea topical)	Ointment,	521700 IU + 100mg (15g)
+Paracetamol	Injection (for IV infusion),	10mg/mL (100mL vial)
+Paracetamol	Oral liquid,	120mg/5mL 
+Paracetamol	Suppository,	125mg 
+Paracetamol	Tablet (scored),	500mg
+Paromomycin	Injection solution (IM),	375mg/mL (as sulphate) (2mL amp)
+Pembrolizumab	Injection,	100mg/4mL
+Penicillamine	Tablet,	250mg
+Pentamidine isetionate	PFI,	200mg (as isetionate) vial
+Phenobarbital (Phenobarbitone) sodium	Injection,	200mg/1mL amp
+Phenobarbital (Phenobarbitone) sodium	Injection,	30mg/1mL amp
+Phenobarbital (Phenobarbitone) sodium	Tablet (scored),	30mg
+Phenoxybenzamine	Capsule,	10mg
+Phenoxymethylpenicilllin (Penicillin V)	PFOL,	250mg (as potassium salt)/5mL
+Phenoxymethylpenicilllin (Penicillin V)	Tablet,	250mg (as potassium salt)
+Phenylephrine	Injection,	10mg/mL
+Phenytoin sodium	Injection,	50mg/mL (5mL vial)
+Phenytoin sodium	Oral liquid,	30mg/5mL
+Phenytoin sodium	Tablet / Capsule,	100mg
+Phenytoin sodium	Tablet / Capsule,	50mg
+Phytomenadione (Vit K)	Injection,	10mg/mL (0.2mL) amp 
+Phytomenadione (Vit K)	Injection,	10mg/mL (1mL amp)
+Pilocarpine	Solution (eye-drops),	4% (as HCl or nitrate)
+Pioglitazone	Tablet,	15mg
+Piperacillin + Tazobactam	PFI,	4g (as sodium salt) + 500mg (as sodium salt)
+Pneumococcal vaccine ( valent or higher adsorbed conjugate)	Injection (syringe),	Single or multi dose vial
+Pneumococcal vaccine (- valent ads. conjugate)	Injection (suspension),	2mL vial (4 doses)
+Podophyllin resin	Solution,	15% (in benzoin tincture) (15mL)
+Point of use Water treatment	Solution,	1.2% Sodium hypochlorite [NaOCl] (150mL)
+Polio vaccine (IPV)	Injection,	Multi dose vial
+Polio vaccine oral (OPV) (live attenuated)	Oral drops,	10mL vial (20 doses)
+Polygeline	Infusion (IV),	3.5% (500mL pack)
+Polymyxin B	PFI,	500000 IU vial
+Potassium chloride	Injectable solution for dilution,	15% (10mL amp) 
+Potassium chloride	Tablet (e/r),	600mg
+Povidone iodine	Solution,	10% (equiv. to Iodine 1%)
+Pralidoxime	PFI,	1g (as chloride or mesilate) vial
+Pramipexole	Tablet (scored),	180 micrograms base
+Pramipexole	Tablet (scored),	700 micrograms base
+Praziquantel	Tablet (scored),	600mg
+Prazosin	Capsule,	1mg
+Prazosin	Capsule,	5mg
+Prednisolone	Eye drops,	1% (as acetate) (5mL)
+Prednisolone	Oral liquid,	15mg/5mL 
+Prednisolone	Tablet,	20mg
+Prednisolone	Tablet,	5mg
+Primaquine	Tablet,	15mg (as diphosphate)
+Primaquine	Tablet,	7.5mg (as diphosphate)
+Probenecid	Tablet,	250mg
+Procarbazine	Capsule,	50mg (as HCl)
+Proguanil	Tablet,	100mg (as HCl)
+Propofol	Injection,	10mg/mL (20mL vial)
+Propranolol	Tablet (scored),	40mg
+Propranolol	Tablet,	40mg (as HCl)
+Propylthiouracil	Tablet,	50mg
+Prostaglandin E	Injection solution,	1mg/mL 
+Prostaglandin E	Vaginal tablet,	3mg
+Protamine	Injection,	10mg/mL (as sulphate) (5mL amp)
+Prothionamide (Pto)	Tablet,	250mg
+Pyrazinamide (Z)	Tablet (dispersible),	150mg
+Pyrazinamide (Z)	Tablet (scored),	150mg
+Pyrazinamide (Z)	Tablet,	500mg
+Pyridostigmine	Tablet,	60mg (as bromide)
+Pyridoxine (Vit B)	Tablet (scored),	50mg (as HCl)
+Pyridoxine (Vit B)	Tablet,	25mg (as HCl)
+Pyrimethamine	Tablet,	25mg
+Quetiapine	Tablet (e/r),	300mg
+Quetiapine	Tablet (i/r scored),	100mg
+Quetiapine	Tablet (i/r scored),	300mg
+Quinine	Injection,	300mg/mL (as HCl) (2mL amp)
+Quinine	Tablet (f/c),	300mg (as sulphate or bisulphate)
+Rabies vaccine (cell culture)	Injection,	Single dose (Purified Verocell / Human diploid)
+Raltegravir (RAL)	Granules for oral suspension,	100mg sachet
+Raltegravir (RAL)	Tablet,	100mg
+Raltegravir (RAL)	Tablet,	25mg
+Raltegravir (RAL)	Tablet,	400mg (f/c)
+Rasburicase	Injection,	7.5mg/vial
+Ready to use supplemental food (RUSF)	Oral paste / bar / liquid / powder,	Standard formula (minimum 350 Kcal/100g)
+Ready to use supplemental food (RUSF)	Oral paste / bar / liquid / powder,	Standard formula (minimum 510 Kcal/100g)
+Ready to use therapeutic food (RUTF)	Oral paste / bar / liquid / powder,	Standard formula (minimum 500 Kcal/100g)
+Rehydration solution for malnutrition (ReSoMal)	PFOL (to make L),	Sachet (42g) (WHO formula)
+Remifentanyl	PFI,	2mg/2mL
+Retinol (Vit A)	Capsule,	100000 IU (as palmitate)
+Retinol (Vit A)	Capsule,	200000 IU (as palmitate)
+Retinol (Vit A)	Capsule,	50000 IU (as palmitate)
+Ribavirin	Capsule,	200mg
+Ribavirin	Injection (IV),	800mg in 10mL phosphate buffer solution
+Rifabutin	Capsule,	150mg
+Rifampicin (R)	Capsule,	150mg
+Rifampicin (R)	Capsule,	300mg
+Rifampicin (R)	Tablet / Capsule,	150mg
+Rifampicin (R)	Tablet / Capsule,	300mg
+Rifampicin + Isoniazid (RH)	Tablet,	150mg + 75mg
+Rifampicin + Isoniazid (RH)	Tablet,	75mg + 50mg 
+Rifampicin + Isoniazid + Pyrazinamide (RHZ)	Tablet,	75mg + 50mg + 150mg 
+Rifampicin + Isoniazid + Pyrazinamide + Ethambutol (RHZE)	Tablet,	150mg + 75mg + 400mg + 275mg
+Rifapentine	Tablet,	150mg
+Risperidone	Tablet (scored),	2mg
+Ritonavir (RTV)	Oral liquid,	400mg/5mL
+Ritonavir (RTV)	Oral powder,	100mg sachet 
+Ritonavir (RTV)	Tablet (heat-stable),	100mg
+Rituximab	Injection (IV),	10mg/mL (10mL vial)
+Rituximab	Injection (IV),	10mg/mL (50mL vial)
+Rivaroxaban	Tablet,	10mg
+Rivaroxaban	Tablet,	15mg
+Rivaroxaban	Tablet,	20mg
+Rotavirus vaccine	Oral suspension,	Single dose vial
+Sacubitril + Valsartan	Tablet (f/c),	24mg + 26mg
+Salbutamol	Injection,	500 micrograms (as sulphate)/mL (5mL amp)
+Salbutamol	Nebuliser solution,	5mg/mL (as sulphate)
+Salbutamol + Beclomethasone	Inhalation (aerosol),	100 micrograms + 50 micrograms
+Salbutamol + Ipratropium	Nebuliser solution,	200  micrograms (as sulphate) + 1mg (as bromide) per 1mL (2.5mL amp)
+Salicylic acid	Ointment,	3.00%
+Semi elemental peptide based formula for tube feed	Liquid,	500mL
+Sevelamer	Tablet,	400mg
+Sevelamer	Tablet,	800mg
+Sevoflurane	Liquid,	250mL
+Sildenafil	PFOL,	10mg/mL
+Sildenafil	Tablet,	25mg
+Silver ion	Solution,	0.01% (100mL)
+Silver ion	Solution,	0.01% (250mL)
+Silver sulphadiazine	Cream,	1% (250g)
+Silver sulphadiazine	Cream,	1% (50g)
+Sitagliptin	Tablet,	50mg
+Sodium acid phosphate	Tablet (effervescent),	1.936g (equivalent to phosphorus 500mg)
+Sodium chloride	Injectable solution (infusion),	0.45% (hypotonic) (500mL) [in collapsible bottle or Euro cap]
+Sodium chloride	Injectable solution (infusion),	0.9% (isotonic) (500mL)
+Sodium chloride	Injectable solution,	3% (hypertonic) (10mL amp) 
+Sodium chloride	Solution (nasal drops),	0.90%
+Sodium chloride	Tablet,	600g
+Sodium citrate + Citric acid (Shohl’s solution)	Oral solution,	500mg + 334mg/5mL (30mL)
+Sodium cromoglicate	Eye drops,	2.00%
+Sodium hydrogen carbonate (bicarbonate)	Injectable solution,	8.4% (10mL amp)
+Sodium hydrogen carbonate (Sodium bicarbonate)	Injectable solution,	8.4% (10mL amp)
+Sodium hydrogen carbonate (Sodium bicarbonate)	Tablet (scored),	1g
+Sodium hydrogen carbonate (Sodium bicarbonate)	Tablet (scored),	600mg
+Sodium hypochlorite	Solution,	4-6% chlorine
+Sodium lactate compound (Hartmanns / Ringers lactate)	Injectable solution (infusion),	BP formula (500mL)
+Sodium nitrite	Injection,	30mg/mL (10mL amp)
+Sodium polystyrene sulphonate	Powder,	450mg
+Sodium stibogluconate	Injection,	100mg/mL (100mL amp)
+Sodium thiosulphate	Injection,	250mg/mL (50mL amp)
+Specialized Hepatic formula	Powder,	Sachet
+Specialized hepatic formula	Liquid,	500mL
+Specialized hepatic sip feed	Liquid,	200mL
+Specialized high energy protein drink (with hydrolyzed protein fat free lactose free and gluten free)	Liquid,	200mL
+Specialized hypercaloric liquid formula feed	Liquid,	500mL
+Specialized Renal formula	Powder,	400g
+Specialized Semi-elemental peptide formula	Powder,	400g
+Spironolactone	Tablet (cross-scored),	25mg
+Spironolactone	Tablet (scored),	100mg
+Spironolactone	Tablet (scored),	25mg
+Succimer [Dimercaptosuccinic acid (DMSA)]	Capsule,	100mg
+Sulfadiazine	Tablet,	500mg
+Sulfadoxine + Pyrimethamine	Tablet,	500mg + 25mg
+Sulfasalazine (SSZ)	Tablet,	500mg
+Sun screening agent(s)	Cream or lotion,	SPF 50+
+Suramin sodium	PFI,	1g vial
+Surfactant	Suspension for intratracheal instillation,	25mg/mL 
+Surfactant	Suspension for intratracheal instillation,	80mg/mL 
+Suxamethonium	Injection,	50mg (as chloride)/mL (2mL amp)
+Tacrolimus	Capsule,	1mg
+Tacrolimus	Capsule,	500 micrograms
+Tacrolimus	Capsule,	5mg
+Tacrolimus	Concentrate (for IV infusion),	5mg/1mL amp
+Tacrolimus	Ointment,	0.03% (as monohydrate) (10g)
+Tacrolimus	Ointment,	0.1% (as monohydrate) (10g)
+Tamoxifen	Tablet,	20mg (as citrate)
+Tamsulosin	Tablet,	400 micrograms (as HCl)
+Teicoplanin	Injection,	200mg
+Telmisartan	Tablet,	40mg
+Telmisartan + Amlodipine	Tablet,	40mg + 5mg
+Telmisartan + Hydrochlorothiazide	Tablet,	40mg + 12.5mg
+Telmisartan + Hydrochlorothiazide	Tablet,	80mg + 12.5mg
+Tenecteplase	Injection (graduated prefilled syringe),	50mg (10mL)
+Tenofovir + Emtricitabine (TDF/FTC)	Tablet,	300mg + 200mg
+Tenofovir + Lamivudine (TDF/TC)	Tablet,	300mg + 300mg
+Tenofovir + Lamivudine + Dolutegravir (TDF/TC/DTG)	Tablet,	300mg + 300mg + 50mg
+Tenofovir + Lamivudine + Efavirenz (TDF/TC/EFV)	Tablet,	300mg + 300mg + 400mg
+Tenofovir disoproxil fumarate (TDF)	Tablet,	300mg
+Terbinafine	Cream,	1% (as HCl)
+Terbinafine	Tablet,	125mg
+Terizidone (Trd)	Tablet,	300mg
+Terlipressin	Injection,	1mg (as acetate) in 8.5ml solution
+Testosterone	Gel,	1.00%
+Testosterone	Injection (oily),	250mg (as enanthate)/1mL amp
+Tetanus + Diphtheria (Td) vaccine	Injection,	10mL vial (20 doses)
+Tetanus + Diphtheria + Pertussis (Tdap) vaccine	Injection,	0.5mL (single dose)
+Tetanus toxoid (adsorbed)	Injection (suspension),	10mL vial (20 doses)
+Tetracaine	Eye drops,	0.5% (as HCl)
+Tetracycline	Eye ointment,	1% (as HCl)
+Thalidomide	Capsule,	100mg
+Thiamine (Vit B)	Tablet,	50mg (as HCl)
+Thiopental sodium	PFI,	500mg vial
+Tigecycline	PFI,	50mg vial
+Timolol	Eye drops,	0.5% (as hyd. maleate)
+Tinidazole	Tablet (f/c),	500mg
+Tioguanine	SODF,	40mg 
+Tiotropium	Powder for inhalation in a capsule,	18 micrograms / capsule
+Tocilizumab	Injection (solution for IV infusion),	20mg/mL (4mL vial)
+Tolvaptan	Tablet,	15mg
+Topotecan	Injection,	2.5mg
+Torasemide	Tablet (scored),	20mg
+Total parenteral nutrition (TPN) with Medum chain Triglycerides (MCT) / Long chain Triglycerides (LCT)	Solution for IV infusion,	1250mL bag
+Total parenteral nutrition (TPN) with Medum chain Triglycerides (MCT) / Long chain Triglycerides (LCT)	Solution for IV infusion,	625mL bag
+Tranexamic acid	Injection,	100mg/mL (10mL amp)
+Tranexamic acid	Injection,	100mg/mL (5mL amp)
+Tranexamic acid	Tablet,	500mg
+Trastuzumab	PFI,	150mg vial
+Trastuzumab	PFI,	440mg vial + diluent
+Triamcinolone acetonide	Injection (aq. suspension),	40mg/1mL amp
+Trimetazidine	Tablet (m/r),	35mg
+Tropicamide + phenylephrine	Eye drops,	0.8% + 5% w/v
+Tuberculin purified protein derivative (PPD)	Injection (solution),	0.1mL vial (single dose)
+Typhoid vaccine	Injection (solution),	Single or multi dose
+Valgancyclovir	Tablet,	450mg
+Valproic acid (Sodium Valproate)	Injection,	100mg/mL in 10mL amp
+Valproic acid (Sodium Valproate)	Injection,	100mg/mL in 4mL amp
+Valproic acid (Sodium Valproate)	Oral liquid,	200mg/5mL
+Valproic acid (Sodium Valproate)	Tablet (e/c),	200mg
+Valproic acid (Sodium Valproate)	Tablet (e/c),	500mg
+Vancomycin	PFI,	500mg vial (as HCl)
+Vasopressin	Injection,	20 units/mL
+Vecuronium	PFI,	10mg (as bromide) vial 
+Verapamil	Tablet (s/r),	240mg (as HCl)
+Verapamil	Tablet,	40mg (as HCl)
+Vinblastine	Injection,	1mg/mL (as sulphate) (10mL vial)
+Vincristine	PFI,	1mg (as sulphate) vial
+Vinorelbine	Injection,	10mg/mL (1mL vial)
+Vinorelbine	Injection,	10mg/mL (5mL vial)
+Vitamin B (Cobalamin)	Tablet,	500 micrograms
+Vitamins & Minerals mix	Powder,	1g sachet 
+Voriconazole	PFI,	200mg vial
+Warfarin	Tablet (scored),	1mg (as sodium salt)
+Warfarin	Tablet (scored),	5mg (as sodium salt)
+Water for injection	Injection,	10 mL amp
+Water-soluble vitamins	Solution for IV infusion,	10mL
+White soft paraffin (Petroleum jelly)	Topical application,	100g
+Xylometazoline	Nasal spray,	0.05%
+Yellow fever vaccine (live attenuated)	Injection,	Single or multi dose vial
+Zidovudine (AZT or ZDV)	Oral liquid,	50mg/5mL
+Zidovudine (AZT or ZDV)	Tablet,	300mg
+Zidovudine + Lamivudine (AZT/TC)	Tablet,	300mg + 150mg
+Zidovudine + Lamivudine (AZT/TC)	Tablet,	60mg + 30mg 
+Zinc Hyaluronate (zinc-hyaluronan)	Gel (water-based),	15g
+Zinc sulphate	Tablet (dispersible),	20mg
+Zoledronic acid	Concentrate solution for Infusion,	800 micrograms/mL (in 5mL vial)
+Zoledronic acid	Injection,	5mg (in 100mL)
+Zolpidem	Tablet,	10mg
+Zuclopenthixol	Injection (oily depot),	200mg/1mL (as decanoate) amp
+Zuclopenthixol	Injection (oily),	100mg/mL (as acetate) (2mL amp)
+Zuclopenthixol	Oral drops,	20mg/mL (20mL)

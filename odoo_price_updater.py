@@ -20,23 +20,27 @@ def updatePrice(file_name):
     print(uid)
     models = xc.ServerProxy('{}/xmlrpc/2/object'.format(url))
 
-    with open(file_name, newline="") as csvFile:
+    with open('data/'+file_name, newline="") as csvFile:
         data = list(csv.reader(csvFile))
 
         for i in range(len(data)):
-            file_data = stringcase.lowercase(data[i][0]).title()
+            string_one = stringcase.lowercase(data[i][0]).title()
+            string_two = stringcase.lowercase(data[i][1]).title()
+            file_data=string_one+string_two
+            clean_string = " ".join(file_data.split())
+
             print(file_data)
             product_data = models.execute_kw(db, uid, password,
                                              'product.template', 'search_read',
-                                             [[['name', '=', file_data.strip()]]],
+                                             [[['name', 'like', clean_string]]],
                                              {'fields': ['id'], 'limit': 1})
             print(product_data)
             product_tmpl_id = product_data[0].get('id')
             print(product_tmpl_id)
-            print(data[i][1])
+            print(data[i][2])
 
             result = models.execute_kw(db, uid, password, 'product.template', 'write', [[product_tmpl_id], {
-                'list_price': data[i][1]
+                'list_price': data[i][2]
             }])
             print(result)
 

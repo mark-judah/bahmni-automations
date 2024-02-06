@@ -19,7 +19,7 @@ def createNonSaleableItems(file_name,categ_id):
     print(uid)
     models = xc.ServerProxy('{}/xmlrpc/2/object'.format(url))
 
-    with open(file_name, newline='') as csvFile:
+    with open('data/'+file_name, newline='') as csvFile:
         data = list(csv.reader(csvFile))
       
         for i in range(len(data)):
