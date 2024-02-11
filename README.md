@@ -1,4 +1,4 @@
-# Project Name
+# Bahmni automations
 
 Automated Data Creation for Bahmni, OpenMRS, and Odoo using FastAPI
 
